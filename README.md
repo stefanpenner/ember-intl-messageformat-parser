@@ -1,6 +1,6 @@
 # Ember-intl-messageformat-parser
 
-This README outlines the details of collaborating on this Ember addon.
+A minimal wrapper around intl-messageformat-parser that allows for `import intl-messageformat-parser` within the context of an ember application.
 
 ## Installation
 
