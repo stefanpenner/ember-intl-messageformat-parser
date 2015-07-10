@@ -1,6 +1,6 @@
 # ember-intl-messageformat-parser
 
-A thin wrapper around [intl-messageformat](https://github.com/yahoo/intl-messageformat-parser) that allows for `import IntlMessageFormatParser from 'intl-messageformat-parser';` from within your ember application.
+A thin wrapper around [intl-messageformat-parser](https://github.com/yahoo/intl-messageformat-parser) that allows for `import IntlMessageFormatParser from 'intl-messageformat-parser';` from within your ember application.
 
 ## Installation
 
