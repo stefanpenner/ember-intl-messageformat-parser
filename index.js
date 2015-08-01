@@ -15,9 +15,7 @@ module.exports = {
       files: ['parser.js']
     });
 
-    var trees = mergeTrees([messageFormatParserTree, tree], {
-      overwrite: true
-    });
+    var trees = mergeTrees([messageFormatParserTree, tree]);
 
     return this._super.treeForAddon.call(this, trees);
   }
